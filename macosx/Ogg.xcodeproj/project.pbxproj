@@ -288,6 +288,7 @@
 		730F235909181A3A00AB638C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Henry Mecke";
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = __MACOSX__;
 				SDKROOT = macosx;
@@ -301,6 +302,7 @@
 					ppc,
 					i386,
 				);
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Henry Mecke";
 				GCC_OPTIMIZATION_LEVEL = 3;
 				GCC_PREPROCESSOR_DEFINITIONS = __MACOSX__;
 				OTHER_CFLAGS = (
