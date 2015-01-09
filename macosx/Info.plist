@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>Ogg</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Ogg framework 1.2.2, Copyright © 1994-2009 Xiph.Org Foundation</string>
+	<string>Ogg framework $(CURRENT_PROJECT_VERSION), Copyright © 1994-2009 Xiph.Org Foundation</string>
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
@@ -17,14 +17,14 @@
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2.2</string>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.2.2</string>
+	<string>1</string>
 	<key>CSResourcesFileMapped</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>Ogg framework 1.2.2, Copyright © 1994-2009 Xiph.Org Foundation</string>
+	<string>Ogg framework $(CURRENT_PROJECT_VERSION), Copyright © 1994-2009 Xiph.Org Foundation</string>
 </dict>
 </plist>
