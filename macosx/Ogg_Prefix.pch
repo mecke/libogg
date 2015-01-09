@@ -2,4 +2,4 @@
 // Prefix header for all source files of the 'Ogg' target in the 'Ogg' project.
 //
 
-#include <Carbon/Carbon.h>
+#pragma pack(2) // Replace -falign-loops=16
